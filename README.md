@@ -1,6 +1,6 @@
 - 👋 Hi,I'm Dhruv Pandey
 - 👀 I’m interested in CP,Android Dev, ML and AI
-- 🌱 I’m currently learning advanced C++
+- 🌱 I’m currently learning advanced C++ and basics of Python.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me :
 
