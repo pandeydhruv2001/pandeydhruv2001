@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvpa19260188" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvpa19260188?logo=twitter&style=for-the-badge" alt="dhruvpa19260188" /></a> </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/thenextgoogler/thenextgoogler/main/tenor.gif" align="right"/>
-- 🌱 I’m currently learning Advanced C++ and Kotlin
+- 🌱 I’m currently learning DSA
 
 - 📫 Reach me at **pandey.dhruv2001@gmail.com**
 
