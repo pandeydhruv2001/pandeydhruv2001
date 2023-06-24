@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height=250px />
+
 - 🔭 I’m currently working on [Flipkart Clone](https://github.com/pandeydhruv2001/Flipkart-Clone)
 
 - 🌱 I’m currently learning **DSA and Full Stack Web Development**
