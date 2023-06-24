@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvpa19260188" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvpa19260188?logo=twitter&style=for-the-badge" alt="dhruvpa19260188" /></a> </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/thenextgoogler/thenextgoogler/main/tenor.gif" align="right"/>
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Full Stack Web Development
 
 - 📫 Reach me at **pandey.dhruv2021@gmail.com**
 
-- ⚡ Fun fact **I think I am a maniac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
